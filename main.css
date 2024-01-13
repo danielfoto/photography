@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6, p{
 .header2{
     margin-top: -140px;
     min-height: 150vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("IMG0187.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), URL("./images/IMG0187.jpg") center/cover no-repeat;
     border: 14px solid #000;
     
  
